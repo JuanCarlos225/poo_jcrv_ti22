@@ -1,5 +1,5 @@
 """
-    programa1
+    programa2
     Nombre: Juan Carlos Rosales 
     Vargas
     Fecha: 23/01/2023
