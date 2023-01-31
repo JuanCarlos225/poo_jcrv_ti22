@@ -9,3 +9,5 @@
 |3|programa2.py| Variables utilizando llaves, se llaman forma|
 |3|programa3.py|sintaxis de str.format|
 |4|programa4.py|input|
+|5|ejercicio.py|calcular area y perimetro de los triangulo1
+|6|programa5.py|calcular area y perimetro del circulo y cuadrado|
