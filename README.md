@@ -11,4 +11,5 @@
 |4|programa4.py|input|
 |5|ejercicio.py|calcular area y perimetro de los triangulo1
 |6|programa5.py|calcular area y perimetro del circulo y cuadrado|
-|7| programa6|pruebas unitarias|
+|7| programa6.py|pruebas unitarias|
+|8|practica1.pi|ejercicio de sumas|
