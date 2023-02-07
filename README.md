@@ -14,3 +14,4 @@
 |7| programa6.py|pruebas unitarias|
 |8|practica1.pi|ejercicio de sumas|
 |9|ejercicio|ejercicio2|
+|10|programa8.py|repaso para hallar un área de un triangulo|
