@@ -15,3 +15,4 @@
 |8|practica1.pi|ejercicio de sumas|
 |9|ejercicio|ejercicio2|
 |10|programa8.py|repaso para hallar un área de un triangulo|
+|11|programa9.py|programa de 11 versiones de if|
