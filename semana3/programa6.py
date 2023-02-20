@@ -1,10 +1,13 @@
 
+import os, math
 
-R=float(input("Escribe el radio del circulo :"))# se pide el valor de radio
-circunferencia=2*math.PI*R #formula para la circunferencia de un circulo
-area=math.PI*R*R# se hace la operacion para sacar el area del circulo
-superficiedearea=4*math.PI*R*R# se hace la operacion para sacar la superficie de area
-print ( "Circunferencia:% .2f" % circunferencia) # imprime  la circunferencia del circulo
-print ( "Area del circulo:% .2f"% area) # imprimer el resultado del area del circulo
-print ( "Area de superficie del circulo:% .2f"%superficiedearea)# se imprime el resultado de la superficie del circulo
+radio = float (input ('Ingresa el valor de radio: ')) # se pide el valor de radio
+circunferencia=2.0*math.pi*radio # furmula de la circuferencia 
+perimetro=circunferencia
+area=math.pi*radio*radio
+print ('Valor de area: ' + repr (area))
+print ('Valor de circunferencia: ' + repr (circunferencia)) #Imprime la circnferencia del perimetro
+print ('Valor de perimetro: ' + repr (perimetro)) ##Imprime el perimetro 
+print () #Imprime el resultado
+
 
