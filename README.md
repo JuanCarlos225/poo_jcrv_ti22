@@ -16,4 +16,5 @@
 |9|ejercicio|ejercicio2|
 |10|programa8.py|repaso para hallar un área de un triangulo|
 |11|programa9.py|programa de 11 versiones de if|
-|12|programa10.py|repAaso de if1
+|12|programa10.py|repaso de if1|
+|13|programa12,py|repaso de if1|
