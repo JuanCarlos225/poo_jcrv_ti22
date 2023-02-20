@@ -8,6 +8,6 @@ def mayor(numero1,numero2): # se define el valor de las variables numero1 y nume
     else:
      print("iguales") # imprime si las variables son iguales
 
-    mayor(3,2) # se imprime que numero es mayor
-    mayor(2,3) #se imprime que variable es menor
-    mayor(3,3)#se imprime los valores que son iguales
+mayor(3,2) # se imprime que numero es mayor
+mayor(2,3) #se imprime que variable es menor
+mayor(3,3)#se imprime los valores que son iguales
